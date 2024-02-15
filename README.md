@@ -69,10 +69,16 @@ Visit the application in your web browser and log in with your GitHub account to
       passport-github: ^1.1.0
       xml2js: ^0.6.2
 
-Contributing
-If you would like to contribute to the project, please follow the contribution guidelines.
+**Contributing**
 
-Contact
-For any inquiries, reach out to the author:
+   If you would like to contribute to the project, please fork the repository, test it on your local machine and contribute sincerely.
+   Nonsense ReadMe file changes are unwelcome.
 
-Author: Ankan
+**Contact**
+
+   For any inquiries, reach out to the author:
+
+**Author:**
+
+   Ankan Dey
+   email: ankandey.02@gmail.com
