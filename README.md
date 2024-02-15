@@ -29,11 +29,12 @@ To run this project locally, follow these steps:
 
     ```bash
     cd simple-github-parser
-Install dependencies:
+3. **Install dependencies:**
 
     ```bash
     npm install
-Create a .env file in the project root and add the following:
+    
+4. **Create a .env file in the project root and add the following:**
 
     ```bash
     GITHUB_CLIENT_ID=your_github_client_id
@@ -42,10 +43,11 @@ Create a .env file in the project root and add the following:
     
 Replace your_github_client_id, your_github_client_secret, and your_session_secret with your GitHub OAuth application credentials and a random session secret.
 
-Run the application:
+5. **Run the application:**
 
     ```bash
-    npm start
+    node index.js
+    
 The application will be accessible at http://localhost:3000.
 
 Usage
