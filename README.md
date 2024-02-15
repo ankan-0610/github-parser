@@ -53,10 +53,10 @@ The application will be accessible at http://localhost:3000.
 Usage
 Visit the application in your web browser and log in with your GitHub account to explore the features.
 
-** Primary Logic **
+**Primary Logic:**
 
-The main logic of going through directories and parsing pom.xml files is included in the /public/fetchDep.js file. 
-It involves recursively going through directories, kind of like a Depth-First-Search.
+   The main logic of going through directories and parsing pom.xml files is included in the /public/fetchDep.js file. 
+   It involves recursively going through directories, kind of like a Depth-First-Search.
 
 **Dependencies:**
 
