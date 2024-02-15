@@ -76,7 +76,6 @@ Visit the application in your web browser and log in with your GitHub account to
 **Contributing**
 
    If you would like to contribute to the project, please fork the repository, test it on your local machine and contribute sincerely.
-   Nonsense ReadMe file changes are unwelcome.
 
 **Contact**
 
