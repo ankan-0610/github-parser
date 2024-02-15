@@ -57,15 +57,17 @@ Primary Logic
 The main logic of going through directories and parsing pom.xml files is included in the /public/fetchDep.js file. It involves recursively going through directories, 
 kind of like a Depth-First-Search.
 
-Dependencies
-axios: ^1.6.7
-crypto: ^1.0.1
-dotenv: ^16.4.4
-express: ^4.18.2
-express-session: ^1.18.0
-passport: ^0.7.0
-passport-github: ^1.1.0
-xml2js: ^0.6.2
+**Dependencies:**
+
+      ```bash
+      axios: ^1.6.7
+      crypto: ^1.0.1
+      dotenv: ^16.4.4
+      express: ^4.18.2
+      express-session: ^1.18.0
+      passport: ^0.7.0
+      passport-github: ^1.1.0
+      xml2js: ^0.6.2
 
 Contributing
 If you would like to contribute to the project, please follow the contribution guidelines.
