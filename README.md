@@ -59,7 +59,6 @@ kind of like a Depth-First-Search.
 
 **Dependencies:**
 
-      ```bash
       axios: ^1.6.7
       crypto: ^1.0.1
       dotenv: ^16.4.4
