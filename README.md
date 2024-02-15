@@ -1,6 +1,10 @@
 # simple-github-parser
 
-A simple app that allows users to log in through their GitHub account.
+A simple app that allows users to log in through their GitHub account, and parse 'pom.xml' files in particular
+
+## Acknowledgement:
+
+I sincerely thank CloudDefense.ai for this wonderful opportunity of implementing this project and to exercise github api fetching skills.
 
 ## Table of Contents
 
